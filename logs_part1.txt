@@ -1,0 +1,20 @@
+46e9b6f (HEAD -> master, origin/test, origin/release, origin/master, origin/develop, origin/HEAD, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+feac29c HEAD@{1}: checkout: moving from test to master
+46e9b6f (HEAD -> master, origin/test, origin/release, origin/master, origin/develop, origin/HEAD, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+172849b HEAD@{3}: checkout: moving from release to test
+46e9b6f (HEAD -> master, origin/test, origin/release, origin/master, origin/develop, origin/HEAD, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+5532ad8 HEAD@{5}: checkout: moving from develop to release
+46e9b6f (HEAD -> master, origin/test, origin/release, origin/master, origin/develop, origin/HEAD, test, release, develop) HEAD@{6}: merge test: Merge made by the 'recursive' strategy.
+5532ad8 HEAD@{7}: merge release: Fast-forward
+efcb687 HEAD@{8}: checkout: moving from release to develop
+5532ad8 HEAD@{9}: commit: index modified
+ebcf23a HEAD@{10}: commit: styles folder added
+efcb687 HEAD@{11}: checkout: moving from develop to release
+efcb687 HEAD@{12}: checkout: moving from test to develop
+172849b HEAD@{13}: commit: index modified
+e757c88 HEAD@{14}: commit: images folder added
+efcb687 HEAD@{15}: checkout: moving from develop to test
+efcb687 HEAD@{16}: commit: index.html added
+feac29c HEAD@{17}: checkout: moving from master to develop
+feac29c HEAD@{18}: clone: from https://github.com/MKaliuzhnaia/hillel_kaliuzhna.git
+(END)
