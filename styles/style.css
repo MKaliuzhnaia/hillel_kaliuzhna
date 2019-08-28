@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(199, 223, 211);
+    padding: 20px 20px 20px;
+    margin: 30px 20px 20px  ;
+}
+
+article{
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+p{
+    color: rgb(30, 7, 92);
+    font-size: 18px
+}
+
+h2{
+    color: rgb(30, 7, 92);
+    font-size: 22px
+}
+
+h3{
+    color: rgb(30, 7, 92);
+    font-size: 26px
+}
+
+table{
+    color: rgb(30, 7, 92);
+    font-size: 18px
+}
+
+img{
+    width="150"
+}
+
